@@ -102,7 +102,7 @@ pathy==0.10.2
 patsy==0.5.3
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==10.0.0
+Pillow==10.0.1
 platformdirs==3.9.1
 plotly==5.15.0
 preshed==3.0.8
@@ -171,7 +171,7 @@ typer==0.9.0
 typing_extensions==4.7.1
 tzdata==2023.3
 uri-template==1.3.0
-urllib3==2.0.4
+urllib3==2.0.6
 wasabi==1.1.2
 wcwidth==0.2.6
 webcolors==1.13
