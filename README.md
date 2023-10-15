@@ -188,6 +188,23 @@ This multi-faceted evaluation process was essential in choosing the best model v
 
 ## Conclusion
 
+Through the vast realm of social media, specifically platforms like Reddit, we gain profound insights into the experiences of urban life. This research demonstrated that when it comes to extracting valuable topics from the concise and sometimes fragmented content typical of social media, BERTopic consistently outshines traditional techniques like LDA. Additionally, strategic preprocessing of data amplifies the efficiency and accuracy of BERTopic in deriving coherent topics.
+
+### Limitations
+
+- **Data Retrieval Constraints**: Changes in Reddit's data access policies posed significant challenges, limiting the volume and depth of data available for this study.
+- **Sole Dependence on Reddit**: Our insights are predominantly Reddit-centric. Diversifying data sources could present a more holistic view of life in Dubai.
+- **Embedding Model**: Utilizing a generic pre-trained model might overlook some intricacies and idiosyncrasies specific to Dubai's discourse.
+- **Single Annotator**: The manual annotation process was overseen by just one individual. While this streamlined the process, it could introduce a narrow viewpoint or potential biases in topic interpretation.
+
+### Future Work
+
+- **Broaden Data Horizons**: Exploring popular platforms in the region, like Twitter and Facebook, could provide deeper and more diversified insights into the socio-cultural dynamics of Dubai.
+- **Tailored Models**: Harnessing larger, more diverse datasets to train bespoke embedding models could capture the unique linguistic and thematic nuances of Dubai.
+- **Collaborative Annotation**: Engaging multiple annotators for a more balanced and comprehensive topic identification and interpretation process.
+- **Deep Dive into BERTopic**: A more intricate exploration of BERTopic's modularity and architecture could offer avenues for enhanced topic coherence and overall performance.
+
+
 ## Links to Notebooks
 
 - [Data Preprocessing](https://github.com/yourusername/topic-modelling-project/blob/main/data_preprocessing.ipynb)
