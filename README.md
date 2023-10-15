@@ -8,13 +8,13 @@ Welcome to my topic modelling project. This repository contains everything you n
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
-3. [Exploratory Analysis](#exploratory-analysis)
-4. [Methodology](#methodology)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [Links to Notebooks](#links-to-notebooks)
-8. [Contributors](#contributors)
-9. [License](#license)
+3. [Methodology](#methodology)
+4. [Results](#results)
+5. [Conclusion](#conclusion)
+6. [Links to Notebooks](#links-to-notebooks)
+7. [Contributors](#contributors)
+<!-- 8. [License](#license) -->
+<!-- [Exploratory Analysis](#exploratory-analysis) -->
 
 ## Introduction
 
@@ -33,7 +33,7 @@ Topic modelling, a crucial text mining technique, is employed in this study to e
 2. Navigate to the directory
 3. Install the required packages in the virtual environments folders
 
-### Exploratory Analysis
+<!-- ### Exploratory Analysis -->
 
 
 
@@ -207,14 +207,16 @@ Through the vast realm of social media, specifically platforms like Reddit, we g
 
 ## Links to Notebooks
 
-- [Data Preprocessing](https://github.com/yourusername/topic-modelling-project/blob/main/data_preprocessing.ipynb)
-- [Model Training](https://github.com/yourusername/topic-modelling-project/blob/main/model_training.ipynb)
-- [Results and Visualization](https://github.com/yourusername/topic-modelling-project/blob/main/results_and_visualization.ipynb)
+- [Exploratory Analaysis](preprocessing_exploration/exploratory_data_analysis-rework.ipynb)
+- **Data preprocessing, Model Training and Evaluation**
+    - [LDA](topic_modelling/LDA_models)
+    - [BERTopic](topic_modelling/BERTopic_models)
+- [Temporal Analysis](timeseries_analysis/time_series_analysis.ipynb)
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Ame Avan-Nomayo](https://github.com/luisanomayo)
 
-## License
+<!--## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/topic-modelling-project/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/topic-modelling-project/blob/main/LICENSE.md) file for details.-->
