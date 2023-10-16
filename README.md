@@ -33,6 +33,8 @@ Topic modelling, a crucial text mining technique, is employed in this study to e
 2. Navigate to the directory
 3. Install the required packages in the virtual environments folders
 
+### Note:<em>The data files are not represent in this repository due to ethical concerns so while the entire product cannot be reproduced, you can source for data from our choosen platform and use our models or create your own models using our training notebooks</em>.
+
 <!-- ### Exploratory Analysis -->
 
 
@@ -44,7 +46,7 @@ Topic modelling, a crucial text mining technique, is employed in this study to e
 - **Source**: Utilized Reddit’s API with its official API Wrapper (PRAW).
 - **Duration**: Extracted data from May to June 2023.
 - **Data Points**: Collected 4,255 posts and 129,521 comments spanning 2012 - 2023.
-- **Subreddits Targeted**: r/Dubai, r/DubaiCentral, and r/UAE (only posts mentioning "Dubai").
+<!-- - **Subreddits Targeted**: r/Dubai, r/DubaiCentral, and r/UAE (only posts mentioning "Dubai"). -->
 - **Post Categories**: Acquired 'Hot', 'New', 'Controversial', and 'Top' posts.
 - **Data Enhancement**: To improve the data set for topic modelling, comments related to the collected posts were also extracted.
 - **Initial Cleaning**: Removed unwanted columns and rows with '[deleted]' or '[removed]' tags, and renamed columns for clarity.
