@@ -1,4 +1,4 @@
-# Topic Modelling Project
+# Topic Modelling of Urban Discourse: A Machine Learning approach to understanding life in Dubai
 
 ![Project Logo/Image](images/bertopic_topics.png)
 
