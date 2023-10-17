@@ -209,7 +209,7 @@ Through the vast realm of social media, specifically platforms like Reddit, we g
 
 ## Links to Notebooks
 
-- [Exploratory Analaysis](preprocessing_exploration/exploratory_data_analysis-rework.ipynb)
+- [Exploratory Analysis](preprocessing_exploration/exploratory_data_analysis-rework.ipynb)
 - **Data preprocessing, Model Training and Evaluation**
     - [LDA](topic_modelling/LDA_models)
     - [BERTopic](topic_modelling/BERTopic_models)
