@@ -33,7 +33,7 @@ Topic modelling, a crucial text mining technique, is employed in this study to e
 2. Navigate to the directory
 3. Install the required packages in the virtual environments folders
 
-#### Note:<em>The data files are not present in this repository due to ethical concerns so while the entire product cannot be reproduced, you can source for data from our choosen platform and use our models or create your own models using our training notebooks</em>.
+<b>Note:<em>The data files are not present in this repository due to ethical concerns so while the entire product cannot be reproduced, you can source for data from our choosen platform and use our models or create your own models using our training notebooks</em></b>.
 
 <!-- ### Exploratory Analysis -->
 
